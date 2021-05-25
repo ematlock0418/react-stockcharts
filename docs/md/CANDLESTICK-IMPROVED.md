@@ -1,4 +1,4 @@
-[source](https://github.com/rrag/react-stockcharts/blob/master/docs/lib/charts/CandleStickStockScaleChart.js), [codesandbox](https://codesandbox.io/s/github/rrag/react-stockcharts-examples2/tree/master/examples/CandleStickStockScaleChart)
+[source](https://github.com/backenddevplus/react-stockcharts/blob/master/docs/lib/charts/CandleStickStockScaleChart.js), [codesandbox](https://codesandbox.io/s/github/backenddevplus/react-stockcharts-examples2/tree/master/examples/CandleStickStockScaleChart)
 
 That is better. let us see how to create it
 

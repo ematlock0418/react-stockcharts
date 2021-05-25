@@ -1,1 +1,1 @@
-[source](https://github.com/rrag/react-stockcharts/blob/master/docs/lib/charts/CandleStickChartPanToLoadMore.js), [codesandbox](https://codesandbox.io/s/github/rrag/react-stockcharts-examples2/tree/master/examples/CandleStickChartPanToLoadMore)
+[source](https://github.com/backenddevplus/react-stockcharts/blob/master/docs/lib/charts/CandleStickChartPanToLoadMore.js), [codesandbox](https://codesandbox.io/s/github/backenddevplus/react-stockcharts-examples2/tree/master/examples/CandleStickChartPanToLoadMore)

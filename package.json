@@ -7,7 +7,7 @@
   "author": {
     "name": "Ragu Ramaswamy"
   },
-  "homepage": "http://rrag.github.io/react-stockcharts/",
+  "homepage": "http://backenddevplus.github.io/react-stockcharts/",
   "license": "MIT",
   "scripts": {
     "clean": "rimraf -rf ./build",
@@ -133,14 +133,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/rrag/react-stockcharts.git"
+    "url": "https://github.com/backenddevplus/react-stockcharts.git"
   },
   "bugs": {
-    "url": "https://github.com/rrag/react-stockcharts/issues"
+    "url": "https://github.com/backenddevplus/react-stockcharts/issues"
   },
   "maintainers": [
     {
-      "name": "rrag",
+      "name": "backenddevplus",
       "email": "ragunath.ramaswamy@gmail.com"
     }
   ]

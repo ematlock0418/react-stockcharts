@@ -28,4 +28,4 @@ To update the source update files under `src`
 
 #### Help needed
 
-Look for issues with the [enhancement](https://github.com/rrag/react-stockcharts/labels/enhancement), [help_wanted](https://github.com/rrag/react-stockcharts/labels/help_wanted)
+Look for issues with the [enhancement](https://github.com/backenddevplus/react-stockcharts/labels/enhancement), [help_wanted](https://github.com/backenddevplus/react-stockcharts/labels/help_wanted)

@@ -10,4 +10,4 @@ https://www.metatrader5.com/en/terminal/help/objects/gann/gann_fan
 	- move the edge circles
 	- Click outside to unselect
 
-[source](https://github.com/rrag/react-stockcharts/blob/master/docs/lib/charts/CandleStickChartWithGannFan.js), [codesandbox](https://codesandbox.io/s/github/rrag/react-stockcharts-examples2/tree/master/examples/CandleStickChartWithGannFan)
+[source](https://github.com/backenddevplus/react-stockcharts/blob/master/docs/lib/charts/CandleStickChartWithGannFan.js), [codesandbox](https://codesandbox.io/s/github/backenddevplus/react-stockcharts-examples2/tree/master/examples/CandleStickChartWithGannFan)

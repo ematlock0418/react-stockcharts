@@ -1,1 +1,1 @@
-[source](https://github.com/rrag/react-stockcharts/blob/master/docs/lib/charts/GroupedBarChart.js), [codesandbox](https://codesandbox.io/s/github/rrag/react-stockcharts-examples2/tree/master/examples/GroupedBarChart)
+[source](https://github.com/backenddevplus/react-stockcharts/blob/master/docs/lib/charts/GroupedBarChart.js), [codesandbox](https://codesandbox.io/s/github/backenddevplus/react-stockcharts-examples2/tree/master/examples/GroupedBarChart)

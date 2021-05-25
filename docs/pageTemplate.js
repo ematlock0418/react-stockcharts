@@ -42,7 +42,7 @@ function getIndexContent() {
 					</div>
 					<div class="col-md-4">
 						<div class="pull-right top-spacing">
-							<a href="https://github.com/rrag/react-stockcharts" class="btn btn-lg button"><small>View project on</small><br/> GitHub</a>
+							<a href="https://github.com/backenddevplus/react-stockcharts" class="btn btn-lg button"><small>View project on</small><br/> GitHub</a>
 						</div>
 					</div>
 				</div>
@@ -83,7 +83,7 @@ module.exports = function(params) {
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 		<meta name="description" content="Highly customizable stock charts">
-		<meta name="author" content="rrag">
+		<meta name="author" content="backenddevplus">
 		<!--
 			http://www.favicon.cc/?action=icon&file_id=174180 
 			License: Creative Commons, no attribution 

@@ -1,5 +1,5 @@
 
-[source](https://github.com/rrag/react-stockcharts/blob/master/docs/lib/charts/AreaChart.js), [codesandbox](https://codesandbox.io/s/github/rrag/react-stockcharts-examples2/tree/master/examples/AreaChart)
+[source](https://github.com/backenddevplus/react-stockcharts/blob/master/docs/lib/charts/AreaChart.js), [codesandbox](https://codesandbox.io/s/github/backenddevplus/react-stockcharts-examples2/tree/master/examples/AreaChart)
 
 `data.tsv`
 

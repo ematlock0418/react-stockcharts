@@ -14,5 +14,5 @@ And the formula for linear regression is from http://www.metastock.com/Customer/
 	- move the edge circles
 	- Click outside to unselect
 
-[source](https://github.com/rrag/react-stockcharts/blob/master/docs/lib/charts/CandleStickChartWithStandardDeviationChannel.js), [codesandbox](https://codesandbox.io/s/github/rrag/react-stockcharts-examples2/tree/master/examples/CandleStickChartWithStandardDeviationChannel)
+[source](https://github.com/backenddevplus/react-stockcharts/blob/master/docs/lib/charts/CandleStickChartWithStandardDeviationChannel.js), [codesandbox](https://codesandbox.io/s/github/backenddevplus/react-stockcharts-examples2/tree/master/examples/CandleStickChartWithStandardDeviationChannel)
 
