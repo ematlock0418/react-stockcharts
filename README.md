@@ -1,6 +1,6 @@
 ## React Stockcharts
 
-[![Join the chat at https://gitter.im/backenddevplus/react-stockcharts](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/backenddevplus/react-stockcharts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/zacharyarntt/react-stockcharts](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/zacharyarntt/react-stockcharts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![npm version](https://badge.fury.io/js/react-stockcharts.svg)](https://badge.fury.io/js/react-stockcharts)
 
 
@@ -13,7 +13,7 @@ If you like this project checkout <a href="https://gocharting.com" target="_blan
  - over 60 technical indicators and overlays
  - drawing objects
 
-Multiple [quick start examples](https://github.com/backenddevplus/react-stockcharts-examples2)
+Multiple [quick start examples](https://github.com/zacharyarntt/react-stockcharts-examples2)
 
 - svg and canvas for improved performance. 
 - pan and zoom, on touch devices too
@@ -64,9 +64,9 @@ npm install  --save react-stockcharts
 
 ### Documentation
 
-[Documentation](http://backenddevplus.github.io/react-stockcharts)
+[Documentation](http://zacharyarntt.github.io/react-stockcharts)
 
-[Ready to use Examples](https://github.com/backenddevplus/react-stockcharts-examples2)
+[Ready to use Examples](https://github.com/zacharyarntt/react-stockcharts-examples2)
 
 ### Contributing
 
